@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClinicalDocument>
+	<component>
+		<section>
+			<templateId root="2.16.840.1.113883.10.20.22.2.12"></templateId>
+			<code code="29299-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="REASON FOR VISIT"></code>
+			<title>Reason for arrival</title>
+			<text>
+				<list>
+					<item>
+						<table>
+							<colgroup>
+								<col width="25%"></col>
+								<col width="75%"></col>
+							</colgroup>
+							<thead>
+								<tr>
+									<th>Cause</th>
+									<th>Desc</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr ID="rfv2">
+									<td ID="reasonrfv2">Annual Wellness Arrival</td>
+									<td></td>
+								</tr>
+							</tbody>
+						</table>
+					</item>
+				</list>
+			</text>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="1.2.840.114350.1.72.7"></templateId>
+					<id extension="HRV-1160-100158827361-1" root="1.2.840.114350.1.13.200.2.7.2.728286"></id>
+					<code code="8661-1" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Chief Complaint"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime nullFlavor="UNK"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD">
+						<originalText>Annual Wellness Visit</originalText>
+					</value>
+				</observation>
+			</entry>
+		</section>
+	</component>
+</ClinicalDocument>

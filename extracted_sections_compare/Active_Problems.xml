@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClinicalDocument>
+	<component>
+		<section>
+			<templateId root="2.16.840.1.113883.10.20.22.2.5"></templateId>
+			<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.2.5"></templateId>
+			<templateId root="2.16.840.1.113883.10.20.22.2.5.1"></templateId>
+			<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.2.5.1"></templateId>
+			<id root="00000000-0B59-CE37-5EB1-059AEADC9184"></id>
+			<code code="11450-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Problem list - Reported"></code>
+			<title>Active Problems</title>
+			<text>
+				<table>
+					<colgroup>
+						<col width="60%"></col>
+						<col width="15%"></col>
+						<col width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Problem</th>
+							<th>Noted Date</th>
+							<th>Diagnosed Date</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="problem101" styleCode="xRowNormal">
+							<td ID="problem101name">Pulmonary hypertension</td>
+							<td>06/25/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem101comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote102">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+ECHO done 7/19/202 showed RVSP measured 51 mmHg. This was done in the setting of acute PE.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem97" styleCode="xRowAlt">
+							<td ID="problem97name">Degenerative disc disease, cervical</td>
+							<td>05/07/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem97comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote98">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+CTA neck done 9/29/2017 showed degenerative changes of the cervical spine including disc degeneration and facet arthrosis. These degenerative changes are causing spinal canal narrowing and foraminal narrowing at several levels. Mass effect on the spinal cord may be present.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem99" styleCode="xRowNormal">
+							<td ID="problem99name">Degenerative disc disease, thoracic</td>
+							<td>05/07/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem99comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote100">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+CT thoracic spine done 8/11/2022 showed multilevel degenerative changes causing mild, nearly, moderate, left neural foraminal narrowing at T6-7.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem85" styleCode="xRowAlt">
+							<td ID="problem85name">Central sleep apnea</td>
+							<td>03/21/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem85comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote86">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+Sleep study done 8/16/2022 was positive for sleep apnea with AHI 53.3. Repeat study with CPAP done 9/23/2022 and revealed central sleep apnea. Now Sylvia is using and benefiting from BiPAP.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem87" styleCode="xRowNormal">
+							<td ID="problem87name">Diastolic dysfunction</td>
+							<td>03/21/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem87comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote88">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+ECHO done 7/22/2022 showed grade I/IV mild diastolic dysfunction								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem89" styleCode="xRowAlt">
+							<td ID="problem89name">History of pulmonary embolus (PE)</td>
+							<td>03/21/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem89comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote90">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+7/18/2022, completed 6 months of Eliquis								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem91" styleCode="xRowNormal">
+							<td ID="problem91name">Coronary artery calcification seen on CT scan</td>
+							<td>03/21/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem91comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote92">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+CT abdomen done 12/21/2019 showed coronary artery calcifications and again on CTA thorax done 7/22/2022.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem93" styleCode="xRowAlt">
+							<td ID="problem93name">Cerebral microvascular disease</td>
+							<td>03/21/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem93comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote94">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+MRI brain done 9/29/2017 showed chronic small vessel ischemic disease.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem95" styleCode="xRowNormal">
+							<td ID="problem95name">Bilateral carotid artery stenosis</td>
+							<td>03/21/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem95comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote96">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+CTA neck done 9/29/2017 showed both calcified and noncalcified plaque at the carotid bifurcation and carotid bulb bilaterally. The degree of luminal narrowing is estimated to be less than 50%.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem82" styleCode="xRowAlt">
+							<td ID="problem82name">History of pathological fracture due to osteoporosis</td>
+							<td>01/23/2023</td>
+							<td></td>
+						</tr>
+						<tr ID="problem83" styleCode="xRowNormal">
+							<td ID="problem83name">Atherosclerosis of aorta</td>
+							<td>01/23/2023</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem83comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote84">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+CT abdomen done 12/21/2019 showed atherosclerotic disease involving abdominal aorta without aneurysm.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem79" styleCode="xRowAlt">
+							<td ID="problem79name">OSA (obstructive sleep apnea)</td>
+							<td>11/09/2022</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem79comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<paragraph styleCode="xcellHeader">Last Assessment &amp; Plan:</paragraph>
+								<content ID="problemNote80">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+Sleep Physician: Dr. Ravichand Madala
+											Sleep Testing/Therapy HX: 08/16/22 NPSG AHI1 34.7, AHI2 53.3, Min O2 68% (149 min &lt;=88%) (163 lbs)09/23/22 Titration: Dedicated ASV study 10/29/22 ASV Titration: Min EPAP 5, Max EPAP 15, PS 1-10, Max 25, Biflex 3, Auto
+											Mask: TBD/UnknownDevice: Aircurve 10 ASVDME: Airway Oxygen (Aerocare)								</content>
+								<content ID="problemNote81">
+									<content styleCode="xLabel">Formatting of this note is different from the original.</content>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+									<br></br>
+Sylvia Jean Miller is using and benefiting from BiPAP ASV.   Residual AHI is 3.2. 
+											We reviewed sleep study and PAP download. Updated order sent to DME. 
+											RECOMMENDATIONS:• PAP Settings: Min EPAP 5, Max EPAP 15, PS 1-10, Max 25, Biflex 3, Auto								</content>
+								<br></br>
+								<br></br>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem75" styleCode="xRowNormal">
+							<td ID="problem75name">Primary osteoarthritis of left hip</td>
+							<td>11/04/2021</td>
+							<td></td>
+						</tr>
+						<tr ID="problem76" styleCode="xRowAlt">
+							<td ID="problem76name">Degenerative disc disease, lumbar</td>
+							<td>11/04/2021</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem76comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote77">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+									<br></br>
+CT lumbar spine done 1/3/2022 showed, "There is mild left neural foraminal narrowing at L1-L2, moderate to severe left neural foraminal narrowing at L2-L3, moderate to severe left neural foraminal narrowing at L4-L5 and mild left neural foraminal narrowing at L5-S1 and which have not significantly changed in the interval. There is moderate right neural foraminal narrowing at L1-L2, mild to moderate right neural foraminal narrowing at L2-L3, severe right neural foraminal narrowing at L4-L5 and mild right neural foraminal narrowing at L5-S1 and which have not significantly changed in the interval."								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem78" styleCode="xRowNormal">
+							<td ID="problem78name">Long term current use of opiate analgesic</td>
+							<td>11/04/2021</td>
+							<td></td>
+						</tr>
+						<tr ID="problem70" styleCode="xRowAlt">
+							<td ID="problem70name">Diverticulosis</td>
+							<td>11/02/2020</td>
+							<td></td>
+						</tr>
+						<tr ID="problem71" styleCode="xRowNormal">
+							<td ID="problem71name">History of shingles</td>
+							<td>11/02/2020</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem71comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote72">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+4/2016								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem73" styleCode="xRowAlt">
+							<td ID="problem73name">History of vertebral compression fracture</td>
+							<td>11/02/2020</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem73comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote74">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+T6, T12, L1, L2 and L4								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem66" styleCode="xRowNormal">
+							<td ID="problem66name">Chronic bilateral low back pain with bilateral sciatica</td>
+							<td>08/05/2020</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem66comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<paragraph styleCode="xcellHeader">Last Assessment &amp; Plan:</paragraph>
+								<content ID="problemNote67">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+									<br></br>
+MRI lumbar spine done 10/11/2023 showed advanced neural foraminal narrowing bilaterally, right greater than left, at L1-2. Mild to moderate neural foraminal narrowing bilaterally at L2-3. Also showed disc bulge present with moderate facet arthropathy and prominence of ligamentum flavum contributing to moderate to severe spinal canal narrowing at L1-2 and L2-3.CT lumbar spine done 1/3/2022 showed mild canal stenosis at L1-2 and L2-3 levels.								</content>
+								<content ID="problemNote68">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+									<br></br>
+Continue analgesics and gabapentinWill need to stop motrin use with anticoagulation								</content>
+								<br></br>
+								<br></br>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem61" styleCode="xRowAlt">
+							<td ID="problem61name">Generalized anxiety disorder</td>
+							<td>10/28/2019</td>
+							<td></td>
+						</tr>
+						<tr ID="problem62" styleCode="xRowNormal">
+							<td ID="problem62name">Other insomnia</td>
+							<td>10/28/2019</td>
+							<td></td>
+						</tr>
+						<tr ID="problem63" styleCode="xRowAlt">
+							<td ID="problem63name">Primary osteoarthritis involving multiple joints</td>
+							<td>10/28/2019</td>
+							<td></td>
+						</tr>
+						<tr ID="problem64" styleCode="xRowNormal">
+							<td ID="problem64name">Age-related osteoporosis without current pathological fracture</td>
+							<td>10/28/2019</td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem64comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Overview:</paragraph>
+								<content ID="problemNote65">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+Forteo 2009-2011, Prolia 2011-2016, Started Evista in 2020, which was stopped in 7/2022 due to patient having bilateral PE. Started Reclast in 2023.								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem54" styleCode="xRowAlt">
+							<td ID="problem54name">Essential hypertension</td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowAlt xMergeUp">
+							<td ID="problem54comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Last Assessment &amp; Plan:</paragraph>
+								<content ID="problemNote55">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+									<br></br>
+Continue to monitor BPContinue home meds								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem57" styleCode="xRowNormal">
+							<td ID="problem57name">Pure hypercholesterolemia</td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr styleCode="xRowNormal xMergeUp">
+							<td ID="problem57comment" colspan="3" styleCode="xallIndent">
+								<paragraph styleCode="xcellHeader">Last Assessment &amp; Plan:</paragraph>
+								<content ID="problemNote58">
+									<content styleCode="xLabel">Formatting of this note might be different from the original.</content>
+									<br></br>
+Continue statin								</content>
+								<br></br>
+							</td>
+						</tr>
+						<tr ID="problem60" styleCode="xRowAlt">
+							<td ID="problem60name">Primary open angle glaucoma (POAG) of both eyes, mild stage</td>
+							<td></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+				<footnote ID="subTitle53" styleCode="xSectionSubTitle">documented as of this encounter (statuses as of 02/11/2024)</footnote>
+			</text>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="4793961-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem54"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20220720"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="4793961" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem54name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low nullFlavor="UNK"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="59621000" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem54name"></reference>
+								</originalText>
+								<translation code="I10" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Essential hypertension"></translation>
+								<translation code="401.9" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Essential hypertension"></translation>
+								<translation code="30422" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Essential hypertension"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20220720113448-0400"></time>
+								<assignedAuthor>
+									<id extension="236606146" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1447788757" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low nullFlavor="UNK"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem54comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="4793964-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem57"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20220720"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="4793964" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem57name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low nullFlavor="UNK"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="267432004" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem57name"></reference>
+								</originalText>
+								<translation code="E78.00" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Pure hypercholesterolemia"></translation>
+								<translation code="272.0" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Pure hypercholesterolemia"></translation>
+								<translation code="46693" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Pure hypercholesterolemia"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20220720113449-0400"></time>
+								<assignedAuthor>
+									<id extension="236606146" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1447788757" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low nullFlavor="UNK"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem57comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="4793965-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem60"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20211104"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="4793965" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem60name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low nullFlavor="UNK"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="77075001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem60name"></reference>
+								</originalText>
+								<translation code="H40.1131" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Primary open angle glaucoma (POAG) of both eyes, mild stage"></translation>
+								<translation code="365.11" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Primary open angle glaucoma (POAG) of both eyes, mild stage"></translation>
+								<translation code="1493371244" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Primary open angle glaucoma (POAG) of both eyes, mild stage"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20211104195931-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low nullFlavor="UNK"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="22484501-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem61"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20191028"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="22484501" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem61name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20191028"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="21897009" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem61name"></reference>
+								</originalText>
+								<translation code="F41.1" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Generalized anxiety disorder"></translation>
+								<translation code="300.02" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Generalized anxiety disorder"></translation>
+								<translation code="15394" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Generalized anxiety disorder"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20191028190839-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20191028"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="22484530-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem62"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20191028"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.890.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.890.1.113883.10.20.22.4.4"></templateId>
+							<id extension="22484530" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem62name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20191028"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="193462001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem62name"></reference>
+								</originalText>
+								<translation code="G47.09" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Other insomnia"></translation>
+								<translation code="780.52" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Other insomnia"></translation>
+								<translation code="51379" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Other insomnia"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.120"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20191028191215-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20191028"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="22484532-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem63"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20191028"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="22484532" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem63name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20191028"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="201819000" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem63name"></reference>
+								</originalText>
+								<translation code="M15.9" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Primary osteoarthritis involving multiple joints"></translation>
+								<translation code="715.98" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Primary osteoarthritis involving multiple joints"></translation>
+								<translation code="45273523" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Primary osteoarthritis involving multiple joints"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20191028191245-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20191028"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="22484535-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem64"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20240211"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="22484535" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem64name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20191028"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="18040001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem64name"></reference>
+								</originalText>
+								<translation code="M81.0" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Age-related osteoporosis without current pathological fracture"></translation>
+								<translation code="733.01" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Age-related osteoporosis without current pathological fracture"></translation>
+								<translation code="1584567" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Age-related osteoporosis without current pathological fracture"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20240211125249-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20191028"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem64comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="26277490-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem66"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20240211"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="26277490" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem66name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20200805"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="278860009" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem66name"></reference>
+								</originalText>
+								<translation code="M54.42" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Chronic bilateral low back pain with bilateral sciatica"></translation>
+								<translation code="724.2" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Chronic bilateral low back pain with bilateral sciatica"></translation>
+								<translation code="67571853" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Chronic bilateral low back pain with bilateral sciatica"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20240211123551-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20200805"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem66comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="27719285-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem70"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20201102"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="27719285" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem70name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20201102"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="397881000" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem70name"></reference>
+								</originalText>
+								<translation code="K57.90" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Diverticulosis"></translation>
+								<translation code="562.10" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Diverticulosis"></translation>
+								<translation code="42203" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Diverticulosis"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20201102191115-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20201102"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="27719298-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem71"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20201102"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="27719298" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem71name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20201102"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="681221000119108" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem71name"></reference>
+								</originalText>
+								<translation code="Z86.19" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="History of shingles"></translation>
+								<translation code="V12.09" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="History of shingles"></translation>
+								<translation code="1742809" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="History of shingles"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20201102191210-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20201102"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem71comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="27719309-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem73"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20221109"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="27719309" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem73name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20201102"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="391094005" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem73name"></reference>
+								</originalText>
+								<translation code="Z87.81" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="History of vertebral compression fracture"></translation>
+								<translation code="V15.51" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="History of vertebral compression fracture"></translation>
+								<translation code="63453179" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="History of vertebral compression fracture"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20221109202638-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20201102"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem73comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="33908106-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem75"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20211104"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="33908106" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem75name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20211104"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="323291000119108" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem75name"></reference>
+								</originalText>
+								<translation code="M16.12" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Primary osteoarthritis of left hip"></translation>
+								<translation code="715.15" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Primary osteoarthritis of left hip"></translation>
+								<translation code="1587188" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Primary osteoarthritis of left hip"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20211104194441-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20211104"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="33908148-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem76"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230507"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="33908148" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem76name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20211104"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="26538006" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem76name"></reference>
+								</originalText>
+								<translation code="M51.36" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Degenerative disc disease, lumbar"></translation>
+								<translation code="722.52" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Degenerative disc disease, lumbar"></translation>
+								<translation code="940897" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Degenerative disc disease, lumbar"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230507184154-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20211104"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem76comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="33908193-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem78"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230321"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="33908193" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem78name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20211104"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="452271000124108" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem78name"></reference>
+								</originalText>
+								<translation code="Z79.891" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Long term current use of opiate analgesic"></translation>
+								<translation code="V58.69" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Long term current use of opiate analgesic"></translation>
+								<translation code="1004635" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Long term current use of opiate analgesic"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230321212628-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20211104"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="40111670-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem79"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230331"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="40111670" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem79name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20221109"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="78275009" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem79name"></reference>
+								</originalText>
+								<translation code="G47.33" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="OSA (obstructive sleep apnea)"></translation>
+								<translation code="327.23" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="OSA (obstructive sleep apnea)"></translation>
+								<translation code="330502" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="OSA (obstructive sleep apnea)"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230331074938-0400"></time>
+								<assignedAuthor>
+									<id extension="237634502" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1588204598" root="2.16.840.1.113883.4.6"></id>
+									<code nullFlavor="OTH">
+										<originalText>Nurse Practitioner, Family</originalText>
+										<translation code="638" codeSystem="1.2.840.114350.1.13.200.2.7.10.836982.1050" codeSystemName="Epic.SER.ProviderSpecialty" displayName="Nurse Practitioner, Family"></translation>
+									</code>
+									<addr use="WP">
+										<streetAddressLine>4100 Lake Dr SE</streetAddressLine>
+										<streetAddressLine>Suite 200</streetAddressLine>
+										<city>Grand Rapids</city>
+										<state>MI</state>
+										<postalCode>49546-8292</postalCode>
+									</addr>
+									<telecom use="WP" value="tel:+1-616-391-3759"></telecom>
+									<telecom use="WP" value="fax:+1-616-391-3052"></telecom>
+									<assignedPerson>
+										<name use="L">
+											<given>Sarah</given>
+											<given>E</given>
+											<family>Knoll</family>
+											<suffix qualifier="AC">CNP</suffix>
+											<validTime>
+												<low nullFlavor="UNK"></low>
+												<high nullFlavor="UNK"></high>
+											</validTime>
+										</name>
+									</assignedPerson>
+									<representedOrganization>
+										<id extension="12900" root="1.2.840.114350.1.13.200.2.7.2.688879"></id>
+										<id nullFlavor="UNK" root="2.16.840.1.113883.4.2"></id>
+										<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										<name>Corewell Health</name>
+										<addr use="WP">
+											<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+											<city>Grand Rapids</city>
+											<state>MI</state>
+											<postalCode>49503</postalCode>
+											<country>US</country>
+										</addr>
+									</representedOrganization>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20221109"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem79comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="41366983-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem82"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230123"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="41366983" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem82name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230123"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="139461000119109" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem82name"></reference>
+								</originalText>
+								<translation code="Z87.310" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="History of pathological fracture due to osteoporosis"></translation>
+								<translation code="V13.51" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="History of pathological fracture due to osteoporosis"></translation>
+								<translation code="11627928" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="History of pathological fracture due to osteoporosis"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230123141325-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230123"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="41367916-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem83"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230123"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="41367916" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem83name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230123"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="81817003" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem83name"></reference>
+								</originalText>
+								<translation code="I70.0" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Atherosclerosis of aorta"></translation>
+								<translation code="440.0" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Atherosclerosis of aorta"></translation>
+								<translation code="4232" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Atherosclerosis of aorta"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230123143747-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230123"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem83comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42243626-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem85"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20240211"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42243626" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem85name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230321"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="27405005" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem85name"></reference>
+								</originalText>
+								<translation code="G47.31" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Central sleep apnea"></translation>
+								<translation code="780.57" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Central sleep apnea"></translation>
+								<translation code="321445" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Central sleep apnea"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20240211123152-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230321"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem85comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42243637-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem87"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230321"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42243637" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem87name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230321"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="3545003" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem87name"></reference>
+								</originalText>
+								<translation code="I51.89" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Diastolic dysfunction"></translation>
+								<translation code="429.9" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Diastolic dysfunction"></translation>
+								<translation code="515056" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Diastolic dysfunction"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230321213744-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230321"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem87comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42243641-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem89"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230507"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42243641" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem89name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230321"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="161512007" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem89name"></reference>
+								</originalText>
+								<translation code="Z86.711" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="History of pulmonary embolus (PE)"></translation>
+								<translation code="V12.55" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="History of pulmonary embolus (PE)"></translation>
+								<translation code="1004089" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="History of pulmonary embolus (PE)"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230507184419-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230321"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem89comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42243657-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem91"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20240211"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42243657" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem91name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230321"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="445512009" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem91name"></reference>
+								</originalText>
+								<translation code="I25.10" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Coronary artery calcification seen on CT scan"></translation>
+								<translation code="414.00" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Coronary artery calcification seen on CT scan"></translation>
+								<translation code="48470176" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Coronary artery calcification seen on CT scan"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20240211125009-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230321"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem91comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42243659-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem93"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230321"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42243659" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem93name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230321"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="443929000" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem93name"></reference>
+								</originalText>
+								<translation code="I67.89" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Cerebral microvascular disease"></translation>
+								<translation code="437.8" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Cerebral microvascular disease"></translation>
+								<translation code="500701" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Cerebral microvascular disease"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230321214134-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230321"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem93comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42243675-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem95"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230321"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42243675" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem95name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230321"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="787044009" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem95name"></reference>
+								</originalText>
+								<translation code="I65.23" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Bilateral carotid artery stenosis"></translation>
+								<translation code="433.10" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Bilateral carotid artery stenosis"></translation>
+								<translation code="846650" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Bilateral carotid artery stenosis"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230321214743-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230321"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem95comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42865897-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem97"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230507"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42865897" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem97name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230507"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="69195002" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem97name"></reference>
+								</originalText>
+								<translation code="M50.30" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Degenerative disc disease, cervical"></translation>
+								<translation code="722.4" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Degenerative disc disease, cervical"></translation>
+								<translation code="940896" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Degenerative disc disease, cervical"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230507184119-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230507"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem97comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="42865901-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem99"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20230507"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="42865901" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem99name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230507"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="68675004" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem99name"></reference>
+								</originalText>
+								<translation code="M51.34" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Degenerative disc disease, thoracic"></translation>
+								<translation code="722.51" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Degenerative disc disease, thoracic"></translation>
+								<translation code="940898" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Degenerative disc disease, thoracic"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20230507184238-0400"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230507"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem99comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+			<entry>
+				<act classCode="ACT" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.3"></templateId>
+					<id extension="43522686-concern" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+					<code code="CONC" codeSystem="2.16.840.1.113883.5.6" codeSystemName="HL7ActClass" displayName="Concern"></code>
+					<text>
+						<reference value="#problem101"></reference>
+					</text>
+					<statusCode code="active"></statusCode>
+					<effectiveTime>
+						<low value="20240211"></low>
+					</effectiveTime>
+					<entryRelationship inversionInd="false" typeCode="SUBJ">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.4"></templateId>
+							<id extension="43522686" root="1.2.840.114350.1.13.200.2.7.2.768076"></id>
+							<code code="64572001" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT">
+								<translation code="75323-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></translation>
+							</code>
+							<text>
+								<reference value="#problem101name"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime>
+								<low value="20230625"></low>
+							</effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="70995007" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" xsi:type="CD">
+								<originalText>
+									<reference value="#problem101name"></reference>
+								</originalText>
+								<translation code="I27.20" codeSystem="2.16.840.1.113883.6.90" codeSystemName="ICD10" displayName="Pulmonary hypertension"></translation>
+								<translation code="416.8" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9" displayName="Pulmonary hypertension"></translation>
+								<translation code="4052" codeSystem="2.16.840.1.113883.3.247.1.1" codeSystemName="Intelligent Medical Objects ProblemIT" displayName="Pulmonary hypertension"></translation>
+							</value>
+							<author>
+								<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+								<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+								<time value="20240211123324-0500"></time>
+								<assignedAuthor>
+									<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+									<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+								</assignedAuthor>
+							</author>
+							<entryRelationship typeCode="REFR">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<templateId extension="2019-06-20" root="2.16.840.1.113883.10.20.22.4.6"></templateId>
+									<code code="33999-4" codeSystem="2.16.840.1.113883.6.1" displayName="Status"></code>
+									<statusCode code="completed"></statusCode>
+									<effectiveTime>
+										<low value="20230625"></low>
+									</effectiveTime>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" xsi:type="CD"></value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+					<entryRelationship inversionInd="true" typeCode="SUBJ">
+						<act classCode="ACT" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.64"></templateId>
+							<code code="48767-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"></code>
+							<text>
+								<reference value="#problem101comment"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+						</act>
+					</entryRelationship>
+				</act>
+			</entry>
+		</section>
+	</component>
+</ClinicalDocument>

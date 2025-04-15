@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClinicalDocument xmlns="urn:hl7-org:v3">
+	<realmCode code="US"></realmCode>
+	<typeId extension="POCD_HD000040" root="2.16.840.1.113883.1.3"></typeId>
+	<templateId root="1.2.840.114350.1.72.1.51693"></templateId>
+	<templateId root="2.16.840.1.113883.10.20.22.1.1"></templateId>
+	<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.1.1"></templateId>
+	<templateId root="2.16.840.1.113883.10.20.22.1.2"></templateId>
+	<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.1.2"></templateId>
+	<id assigningAuthorityName="EPC" root="1.2.840.114350.1.13.200.2.7.8.688883.1027023317"></id>
+	<code code="34133-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Summarization of Episode Note"></code>
+	<title>Summary of Care</title>
+	<effectiveTime value="20240211125509-0500"></effectiveTime>
+	<confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25" displayName="Normal"></confidentialityCode>
+	<languageCode code="en-US"></languageCode>
+	<setId assigningAuthorityName="EPC" extension="00000000-0618-2135-532d-dddd8bcf0173" root="1.2.840.114350.1.13.200.2.7.1.1"></setId>
+	<versionNumber value="1"></versionNumber>
+	<recordTarget>
+		<patientRole>
+			<id assigningAuthorityName="SHCPI" extension="92119646" root="1.2.840.114350.1.13.200.2.7.5.737384.49"></id>
+			<addr use="HP">
+				<streetAddressLine>2329 HOLLIDAY DR SW</streetAddressLine>
+				<county>KENT</county>
+				<city>WYOMING</city>
+				<state>MI</state>
+				<postalCode>49519</postalCode>
+				<country>US</country>
+				<useablePeriod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_TS">
+					<low value="20170105"></low>
+					<high nullFlavor="UNK"></high>
+				</useablePeriod>
+			</addr>
+			<addr use="HP">
+				<streetAddressLine>2329 LEAVE DR SW</streetAddressLine>
+				<county>KENT</county>
+				<city>WYOMING</city>
+				<state>MI</state>
+				<postalCode>49519</postalCode>
+				<useablePeriod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_TS">
+					<low value="20160317"></low>
+					<high value="20170104"></high>
+				</useablePeriod>
+			</addr>
+			<telecom use="HP" value="tel:+1-616-538-1739"></telecom>
+			<telecom use="MC" value="tel:+1-616-350-3600"></telecom>
+			<telecom use="DIR" value="mailto:sylvia49519@gmail.com"></telecom>
+			<telecom use="DIR" value="mailto:Sylvia49519@gmail.com"></telecom>
+			<telecom use="DIR" value="mailto:syljimwyoming@gmail.com"></telecom>
+			<patient>
+				<name use="L">
+					<given>Sylvia</given>
+					<given>Jean</given>
+					<family>Miller</family>
+					<validTime>
+						<low nullFlavor="NA"></low>
+						<high nullFlavor="NA"></high>
+					</validTime>
+				</name>
+				<name use="P">
+					<given>Sylvia</given>
+					<family>Miller</family>
+					<validTime>
+						<low nullFlavor="UNK"></low>
+						<high nullFlavor="UNK"></high>
+					</validTime>
+				</name>
+				<name use="P">
+					<given>Sylvia</given>
+					<given>J</given>
+					<family>Miller</family>
+					<validTime>
+						<low nullFlavor="UNK"></low>
+						<high nullFlavor="UNK"></high>
+					</validTime>
+				</name>
+				<administrativeGenderCode code="F" codeSystem="2.16.840.1.113883.5.1" codeSystemName="AdministrativeGenderCode" displayName="Female"></administrativeGenderCode>
+				<birthTime value="19430606"></birthTime>
+				<sdtc:deceasedInd xmlns:sdtc="urn:hl7-org:sdtc" value="false"></sdtc:deceasedInd>
+				<maritalStatusCode code="M" codeSystem="2.16.840.1.113883.5.2" codeSystemName="MaritalStatusCode" displayName="Married"></maritalStatusCode>
+				<religiousAffiliationCode code="Catholic" codeSystem="2.16.840.1.113883.5.1076" codeSystemName="ReligiousAffiliation"></religiousAffiliationCode>
+				<raceCode code="2106-3" codeSystem="2.16.840.1.113883.6.238" codeSystemName="CDC Race and Ethnicity" displayName="White"></raceCode>
+				<ethnicGroupCode code="2186-5" codeSystem="2.16.840.1.113883.6.238" codeSystemName="CDC Race and Ethnicity" displayName="Not Hispanic or Latino"></ethnicGroupCode>
+				<languageCommunication>
+					<languageCode code="ENG"></languageCode>
+					<preferenceInd value="true"></preferenceInd>
+				</languageCommunication>
+			</patient>
+			<providerOrganization>
+				<id extension="12900" root="1.2.840.114350.1.13.200.2.7.2.688879"></id>
+				<name>Corewell Health</name>
+				<telecom nullFlavor="NI"></telecom>
+				<addr use="WP">
+					<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+					<city>Grand Rapids</city>
+					<state>MI</state>
+					<postalCode>49503</postalCode>
+					<country>US</country>
+				</addr>
+			</providerOrganization>
+		</patientRole>
+	</recordTarget>
+	<author>
+		<time value="20240211125509-0500"></time>
+		<assignedAuthor>
+			<id extension="10.5" root="1.2.840.114350.1.1"></id>
+			<addr nullFlavor="NA"></addr>
+			<telecom nullFlavor="NA"></telecom>
+			<assignedAuthoringDevice>
+				<manufacturerModelName>Epic - Version 10.5</manufacturerModelName>
+				<softwareName>Epic - Version 10.5</softwareName>
+			</assignedAuthoringDevice>
+			<representedOrganization>
+				<id extension="12900" root="1.2.840.114350.1.13.200.2.7.2.688879"></id>
+				<name>Corewell Health</name>
+				<telecom nullFlavor="NI"></telecom>
+				<addr use="WP">
+					<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+					<city>Grand Rapids</city>
+					<state>MI</state>
+					<postalCode>49503</postalCode>
+					<country>US</country>
+				</addr>
+			</representedOrganization>
+		</assignedAuthor>
+	</author>
+	<custodian>
+		<assignedCustodian>
+			<representedCustodianOrganization>
+				<id extension="AH:CW_ML:CW_MEHR" root="1.2.840.114350.1.13.200.2.7.2.688879"></id>
+				<name>Corewell Health</name>
+				<telecom nullFlavor="NI"></telecom>
+				<addr use="WP">
+					<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+					<city>Grand Rapids</city>
+					<state>MI</state>
+					<postalCode>49503</postalCode>
+					<country>US</country>
+				</addr>
+			</representedCustodianOrganization>
+		</assignedCustodian>
+	</custodian>
+	<legalAuthenticator>
+		<time value="20240211125509-0500"></time>
+		<signatureCode code="S"></signatureCode>
+		<assignedEntity>
+			<id nullFlavor="UNK"></id>
+			<code nullFlavor="UNK"></code>
+			<addr nullFlavor="UNK"></addr>
+			<telecom nullFlavor="UNK"></telecom>
+			<assignedPerson>
+				<name nullFlavor="UNK"></name>
+			</assignedPerson>
+		</assignedEntity>
+	</legalAuthenticator>
+	<participant typeCode="IND">
+		<time value="20100303"></time>
+		<associatedEntity classCode="ECON">
+			<id extension="1718900" root="1.2.840.114350.1.13.200.2.7.2.827665"></id>
+			<code nullFlavor="OTH">
+				<originalText>Spouse</originalText>
+			</code>
+			<addr use="HP">
+				<streetAddressLine>2329 HOLLIDAY DR SW</streetAddressLine>
+				<county>KENT</county>
+				<city>WYOMING</city>
+				<state>MI</state>
+				<postalCode>49519</postalCode>
+				<country>US</country>
+			</addr>
+			<telecom use="HP" value="tel:+1-616-538-1739"></telecom>
+			<associatedPerson>
+				<name>Lawrence Miller</name>
+			</associatedPerson>
+		</associatedEntity>
+	</participant>
+	<documentationOf typeCode="DOC">
+		<serviceEvent classCode="PCPR">
+			<effectiveTime>
+				<low value="20231204140000-0500"></low>
+				<high value="20231204143931-0500"></high>
+			</effectiveTime>
+			<performer typeCode="PRF">
+				<functionCode code="PCP" codeSystem="2.16.840.1.113883.5.88" codeSystemName="ParticipationFunction" displayName="Primary Care Provider">
+					<originalText>General</originalText>
+				</functionCode>
+				<time>
+					<low value="20111125"></low>
+					<high nullFlavor="NI"></high>
+				</time>
+				<assignedEntity>
+					<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+					<code code="207Q00000X" codeSystem="2.16.840.1.113883.6.101" displayName="FAMILY MEDICINE PHYSICIAN">
+						<originalText>Family Medicine</originalText>
+						<translation code="19" codeSystem="1.2.840.114350.1.72.1.7.7.10.688867.4160" codeSystemName="Epic.DXC.StandardProviderSpecialtyType" displayName="Family Medicine"></translation>
+						<translation code="9" codeSystem="1.2.840.114350.1.13.200.2.7.10.836982.1050" codeSystemName="Epic.SER.ProviderSpecialty" displayName="Family Medicine"></translation>
+					</code>
+					<addr use="WP">
+						<streetAddressLine>1525 E Beltline Ave NE</streetAddressLine>
+						<streetAddressLine>Suite 102</streetAddressLine>
+						<city>Grand Rapids</city>
+						<state>MI</state>
+						<postalCode>49525</postalCode>
+					</addr>
+					<telecom use="WP" value="tel:+1-616-363-0055"></telecom>
+					<telecom value="fax:+1-616-363-5180"></telecom>
+					<assignedPerson>
+						<name use="L">
+							<given>Amy</given>
+							<given>C</given>
+							<family>Hollen</family>
+							<suffix qualifier="AC">MD</suffix>
+							<validTime>
+								<low nullFlavor="UNK"></low>
+								<high nullFlavor="UNK"></high>
+							</validTime>
+						</name>
+					</assignedPerson>
+					<representedOrganization classCode="ORG">
+						<name>Corewell Health</name>
+						<telecom nullFlavor="UNK"></telecom>
+						<addr use="WP">
+							<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+							<city>Grand Rapids</city>
+							<state>MI</state>
+							<postalCode>49503</postalCode>
+							<country>US</country>
+						</addr>
+					</representedOrganization>
+				</assignedEntity>
+			</performer>
+		</serviceEvent>
+	</documentationOf>
+	<componentOf>
+		<encompassingEncounter>
+			<id extension="100158827361" root="1.2.840.114350.1.13.200.2.7.3.698084.8"></id>
+			<code code="G0439" codeSystem="2.16.840.1.113883.6.12" codeSystemName="CPT-4" displayName="PPPS, subseq visit">
+				<originalText>Office Visit</originalText>
+				<translation code="AMB" codeSystem="2.16.840.1.113883.5.4" displayName="Ambulatory"></translation>
+				<translation code="101" codeSystem="1.2.840.114350.1.72.1.30" displayName="Office Visit"></translation>
+				<translation code="4" codeSystem="1.2.840.114350.1.72.1.30.1"></translation>
+			</code>
+			<effectiveTime>
+				<low value="20231204140000-0500"></low>
+				<high value="20231204143931-0500"></high>
+			</effectiveTime>
+			<responsibleParty>
+				<assignedEntity>
+					<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+					<addr use="WP">
+						<streetAddressLine>1525 E Beltline Ave NE</streetAddressLine>
+						<streetAddressLine>Suite 102</streetAddressLine>
+						<city>Grand Rapids</city>
+						<state>MI</state>
+						<postalCode>49525</postalCode>
+					</addr>
+					<telecom use="WP" value="tel:+1-616-363-0055"></telecom>
+					<telecom value="fax:+1-616-363-5180"></telecom>
+					<assignedPerson>
+						<name>
+							<given>Amy</given>
+							<given>C</given>
+							<family>Hollen</family>
+						</name>
+					</assignedPerson>
+					<representedOrganization>
+						<name>Corewell Health</name>
+					</representedOrganization>
+				</assignedEntity>
+			</responsibleParty>
+			<encounterParticipant typeCode="ATND">
+				<time value="20231204140000-0500"></time>
+				<assignedEntity>
+					<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+					<code code="207Q00000X" codeSystem="2.16.840.1.113883.6.101" displayName="FAMILY MEDICINE PHYSICIAN">
+						<originalText>Family Medicine</originalText>
+						<translation code="19" codeSystem="1.2.840.114350.1.72.1.7.7.10.688867.4160" codeSystemName="Epic.DXC.StandardProviderSpecialtyType" displayName="Family Medicine"></translation>
+						<translation code="9" codeSystem="1.2.840.114350.1.13.200.2.7.10.836982.1050" codeSystemName="Epic.SER.ProviderSpecialty" displayName="Family Medicine"></translation>
+					</code>
+					<addr use="WP">
+						<streetAddressLine>1525 E Beltline Ave NE</streetAddressLine>
+						<streetAddressLine>Suite 102</streetAddressLine>
+						<city>Grand Rapids</city>
+						<state>MI</state>
+						<postalCode>49525</postalCode>
+					</addr>
+					<telecom use="WP" value="tel:+1-616-363-0055"></telecom>
+					<telecom value="fax:+1-616-363-5180"></telecom>
+					<assignedPerson>
+						<name use="L">
+							<given>Amy</given>
+							<given>C</given>
+							<family>Hollen</family>
+							<suffix qualifier="AC">MD</suffix>
+							<validTime>
+								<low nullFlavor="UNK"></low>
+								<high nullFlavor="UNK"></high>
+							</validTime>
+						</name>
+					</assignedPerson>
+				</assignedEntity>
+			</encounterParticipant>
+			<location>
+				<healthCareFacility>
+					<id extension="5220000001" root="1.2.840.114350.1.13.200.2.7.2.686980"></id>
+					<code nullFlavor="UNK">
+						<originalText>Family Medicine</originalText>
+						<translation code="19" codeSystem="1.2.840.114350.1.72.1.7.7.10.688867.4150" codeSystemName="Epic.DepartmentSpecialty" displayName="Family Medicine"></translation>
+					</code>
+					<location>
+						<name>HOLLEN FAMILY MEDICINE PLLC</name>
+						<addr use="WP">
+							<streetAddressLine>1525 E Beltline NE Ste 102</streetAddressLine>
+							<city>Grand Rapids</city>
+							<state>MI</state>
+							<postalCode>49525-4598</postalCode>
+						</addr>
+					</location>
+					<serviceProviderOrganization>
+						<id extension="52200000" root="1.2.840.114350.1.13.200.2.7.2.696570"></id>
+						<name>AP HOLLEN FAMILY MEDICINE PLLC</name>
+						<addr use="WP">
+							<streetAddressLine>1525 E Beltline NE Ste 102</streetAddressLine>
+							<city>Grand Rapids</city>
+							<state>MI</state>
+							<postalCode>49525-4598</postalCode>
+						</addr>
+						<asOrganizationPartOf>
+							<wholeOrganization>
+								<name>Corewell Health</name>
+								<addr use="WP">
+									<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+									<city>Grand Rapids</city>
+									<state>MI</state>
+									<postalCode>49503</postalCode>
+									<country>US</country>
+								</addr>
+							</wholeOrganization>
+						</asOrganizationPartOf>
+					</serviceProviderOrganization>
+				</healthCareFacility>
+			</location>
+		</encompassingEncounter>
+	</componentOf>
+	<component>
+		<structuredBody>
+		</structuredBody>
+	</component>
+	<customMetaData xmlns="">{"DATA_SOURCE_ID":"177","PARTNER_ID":"15","FILE_TYPE_ID":"27","MARKET_ID":"9","SUB_MARKET_ID":"13","REGION_ID":"4"}</customMetaData>
+	<customSendingFacility xmlns="">corewell</customSendingFacility>
+</ClinicalDocument>

@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClinicalDocument>
+	<component>
+		<section>
+			<templateId root="2.16.840.1.113883.10.20.22.2.17"></templateId>
+			<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.2.17"></templateId>
+			<code code="29762-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Social history Narrative"></code>
+			<title>Social History</title>
+			<text>
+				<table ID="sochist141">
+					<colgroup>
+						<col span="2" width="25%"></col>
+						<col width="13%"></col>
+						<col width="12%"></col>
+						<col width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Tobacco Use</th>
+							<th>Types</th>
+							<th>Packs/Day</th>
+							<th>Years Used</th>
+							<th>Date</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Smoking Tobacco: Former</td>
+							<td>Cigarettes</td>
+							<td ID="sochist141packsperday">1</td>
+							<td>16</td>
+							<td>Quit: 01/01/1979</td>
+						</tr>
+						<tr styleCode="xRowAlt">
+							<td>Passive Smoke Exposure: Past</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr ID="sochist141smokeless" styleCode="xRowNormal">
+							<td>Smokeless Tobacco: Never</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+				<table>
+					<colgroup>
+						<col span="2" width="25%"></col>
+						<col width="50%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Alcohol Use</th>
+							<th>Standard Drinks/Week</th>
+							<th>Comments</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td ID="alcoholStatus">Not Currently</td>
+							<td>0 (1 standard drink = 0.6 oz pure alcohol)</td>
+							<td>2-3 times per year</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess1">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Social Connection and Isolation Panel [NHANES]</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess1pair1">
+							<td ID="sdohassess1pair1ques">In a typical week, how many times do you talk on the phone with family, friends, or neighbors?</td>
+							<td ID="sdohassess1pair1ans">More than three times a week</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess1pair2">
+							<td ID="sdohassess1pair2ques">How often do you get together with friends or relatives?</td>
+							<td ID="sdohassess1pair2ans">Twice a week</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess1pair3">
+							<td ID="sdohassess1pair3ques">How often do you attend church or religious services?</td>
+							<td ID="sdohassess1pair3ans">More than 4 times per year</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess1pair4">
+							<td ID="sdohassess1pair4ques">Do you belong to any clubs or organizations such as church groups, unions, fraternal or athletic groups, or school groups?</td>
+							<td ID="sdohassess1pair4ans">No</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess1pair5">
+							<td ID="sdohassess1pair5ques">Attends Club or Organization Meetings</td>
+							<td ID="sdohassess1pair5ans">Not on file</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess1pair6">
+							<td ID="sdohassess1pair6ques">Are you married, widowed, divorced, separated, never married, or living with a partner?</td>
+							<td ID="sdohassess1pair6ans">Married</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess2">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>AUDIT-C</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess2pair1">
+							<td ID="sdohassess2pair1ques">Q1: How often do you have a drink containing alcohol?</td>
+							<td ID="sdohassess2pair1ans">Monthly or less</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess2pair2">
+							<td ID="sdohassess2pair2ques">Q2: How many drinks containing alcohol do you have on a typical day when you are drinking?</td>
+							<td ID="sdohassess2pair2ans">1 or 2</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess2pair3">
+							<td ID="sdohassess2pair3ques">Q3: How often do you have six or more drinks on one occasion?</td>
+							<td ID="sdohassess2pair3ans">Never</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess4">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Overall Financial Resource Strain (CARDIA)</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess4pair1">
+							<td ID="sdohassess4pair1ques">How hard is it for you to pay for the very basics like food, housing, medical care, and heating?</td>
+							<td ID="sdohassess4pair1ans">Not hard at all</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess5">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>PHQ-2</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess5pair1">
+							<td ID="sdohassess5pair1ques">PHQ-2 Depression Score - If &gt; 2, have the patient complete remainder of PHQ-9</td>
+							<td ID="sdohassess5pair1ans">0</td>
+							<td>12/04/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess6">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Finnish Institute of Occupational Health - Occupational Stress Questionnaire</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess6pair1">
+							<td ID="sdohassess6pair1ques">Do you feel stress - tense, restless, nervous, or anxious, or unable to sleep at night because your mind is troubled all the time - these days?</td>
+							<td ID="sdohassess6pair1ans">Not at all</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess7">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Exercise Vital Sign</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess7pair1">
+							<td ID="sdohassess7pair1ques">On average, how many days per week do you engage in moderate to strenuous exercise (like a brisk walk)?</td>
+							<td ID="sdohassess7pair1ans">0 days</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess7pair2">
+							<td ID="sdohassess7pair2ques">On average, how many minutes do you engage in exercise at this level?</td>
+							<td ID="sdohassess7pair2ans">0 min</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess8">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Hunger Vital Sign</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess8pair1">
+							<td ID="sdohassess8pair1ques">Within the past 12 months, you worried that your food would run out before you got the money to buy more.</td>
+							<td ID="sdohassess8pair1ans">Never true</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess8pair2">
+							<td ID="sdohassess8pair2ques">Within the past 12 months, the food you bought just didn't last and you didn't have money to get more.</td>
+							<td ID="sdohassess8pair2ans">Never true</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess9">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>PRAPARE - Transportation</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess9pair1">
+							<td ID="sdohassess9pair1ques">In the past 12 months, has lack of transportation kept you from medical appointments or from getting medications?</td>
+							<td ID="sdohassess9pair1ans">No</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess9pair2">
+							<td ID="sdohassess9pair2ques">In the past 12 months, has lack of transportation kept you from meetings, work, or from getting things needed for daily living?</td>
+							<td ID="sdohassess9pair2ans">No</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table ID="sdohassess10">
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Housing Stability Vital Sign</th>
+							<th>Answer</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="sdohassess10pair1">
+							<td ID="sdohassess10pair1ques">In the last 12 months, was there a time when you were not able to pay the mortgage or rent on time?</td>
+							<td ID="sdohassess10pair1ans">No</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess10pair2">
+							<td ID="sdohassess10pair2ques">In the last 12 months, how many places have you lived?</td>
+							<td ID="sdohassess10pair2ans">1</td>
+							<td>11/12/2023</td>
+						</tr>
+						<tr ID="sdohassess10pair3">
+							<td ID="sdohassess10pair3ques">In the last 12 months, was there a time when you did not have a steady place to sleep or slept in a shelter (including now)?</td>
+							<td ID="sdohassess10pair3ans">No</td>
+							<td>11/12/2023</td>
+						</tr>
+					</tbody>
+				</table>
+				<table>
+					<colgroup>
+						<col width="50%"></col>
+						<col span="2" width="25%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Sex and Gender Information</th>
+							<th>Value</th>
+							<th>Date Recorded</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ID="BirthSex144">
+							<td>Sex Assigned at Birth</td>
+							<td ID="BirthSex144Value">Female</td>
+							<td>06/07/2022 12:58 PM EDT</td>
+						</tr>
+						<tr ID="GenderIdentity142">
+							<td>Gender Identity</td>
+							<td ID="GenderIdentity142Value">Female</td>
+							<td>06/07/2022 12:58 PM EDT</td>
+						</tr>
+						<tr ID="SexualOrientation143">
+							<td>Sexual Orientation</td>
+							<td ID="SexualOrientation143Value">Not on file</td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+				<table>
+					<colgroup>
+						<col span="2" width="25%"></col>
+						<col width="50%"></col>
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Job Start Date</th>
+							<th>Occupation</th>
+							<th>Industry</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Not on file</td>
+							<td ID="sochist145">Not on file</td>
+							<td ID="sochist146">Not on file</td>
+						</tr>
+					</tbody>
+				</table>
+				<footnote ID="subTitle140" styleCode="xSectionSubTitle">documented as of this encounter</footnote>
+			</text>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.78"></templateId>
+					<templateId extension="2014-06-09" root="2.16.840.1.113883.10.20.22.4.78"></templateId>
+					<id extension="Z58938^^72166-2" root="1.2.840.114350.1.13.200.2.7.1.1040.1"></id>
+					<code code="72166-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Tobacco smoking status NHIS"></code>
+					<text>
+						<reference value="#sochist141"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231204"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="8517006" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Ex-smoker" xsi:type="CD"></value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20231204"></time>
+						<assignedAuthor>
+							<id extension="948112453" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="2014026" root="1.2.840.114350.1.13.200.2.7.2.836982"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20240211"></time>
+						<assignedAuthor>
+							<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.85"></templateId>
+					<templateId extension="2014-06-09" root="2.16.840.1.113883.10.20.22.4.85"></templateId>
+					<id extension="Z58938^^77176002" root="1.2.840.114350.1.13.200.2.7.1.1040.2"></id>
+					<code code="11367-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of tobacco use"></code>
+					<text>
+						<reference value="#sochist141"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime>
+						<low nullFlavor="UNK"></low>
+						<high value="19790101"></high>
+					</effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="77176002" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Current smoker" xsi:type="CD"></value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20231204"></time>
+						<assignedAuthor>
+							<id extension="948112453" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="2014026" root="1.2.840.114350.1.13.200.2.7.2.836982"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.85"></templateId>
+					<templateId extension="2014-06-09" root="2.16.840.1.113883.10.20.22.4.85"></templateId>
+					<id extension="Z58938^^65568007" root="1.2.840.114350.1.13.200.2.7.1.1040.2"></id>
+					<code code="11367-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of tobacco use"></code>
+					<text>
+						<reference value="#sochist141"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime>
+						<low nullFlavor="UNK"></low>
+						<high value="19790101"></high>
+					</effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="65568007" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Cigarette Smoker" xsi:type="CD"></value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20231204"></time>
+						<assignedAuthor>
+							<id extension="948112453" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="2014026" root="1.2.840.114350.1.13.200.2.7.2.836982"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="Z58938^^8663-7" root="1.2.840.114350.1.13.200.2.7.1.1040.3"></id>
+					<code code="8663-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Cigarettes smoked current (pack per day) - Reported"></code>
+					<text>
+						<reference value="#sochist141packsperday"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231204"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" value="1" xsi:type="REAL"></value>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="Z58938^^401201003" root="1.2.840.114350.1.13.200.2.7.1.1040.4"></id>
+					<code code="401201003" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED-CT" displayName="Cigarette pack-years">
+						<translation nullFlavor="UNK"></translation>
+					</code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231204"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" value="16" xsi:type="REAL"></value>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.85"></templateId>
+					<templateId extension="2014-06-09" root="2.16.840.1.113883.10.20.22.4.85"></templateId>
+					<id extension="Z58938^^43381005" root="1.2.840.114350.1.13.200.2.7.1.1040.2"></id>
+					<code code="11367-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of tobacco use"></code>
+					<text>
+						<reference value="#sochist141"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime>
+						<low nullFlavor="UNK"></low>
+						<high nullFlavor="UNK"></high>
+					</effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="43381005" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Passive smoker" xsi:type="CD"></value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20231204"></time>
+						<assignedAuthor>
+							<id extension="948112453" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="2014026" root="1.2.840.114350.1.13.200.2.7.2.836982"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="Z58938^^713914004" root="1.2.840.114350.1.13.200.2.7.1.1040.8"></id>
+					<code code="229819007" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED-CT" displayName="Tobacco use and exposure">
+						<translation code="88031-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Smokeless tobacco status"></translation>
+					</code>
+					<text>
+						<reference value="#sochist141smokeless"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231204"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="451381000124107" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Smokeless tobacco non-user" xsi:type="CD"></value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20231204"></time>
+						<assignedAuthor>
+							<id extension="948112453" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="2014026" root="1.2.840.114350.1.13.200.2.7.2.836982"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20240211"></time>
+						<assignedAuthor>
+							<id extension="211343006" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id extension="1750463816" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="Z58938^54650^160573003" root="1.2.840.114350.1.13.200.2.7.1.1040.12"></id>
+					<code code="160573003" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Alcohol intake">
+						<translation code="11331-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Alcohol Use"></translation>
+					</code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20240211"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="82581004" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Ex-drinker (finding)" xsi:type="CD">
+						<originalText>
+							<reference value="#alcoholStatus"></reference>
+						</originalText>
+					</value>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code code="76506-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Social connection and isolation panel">
+								<originalText>Social Connection and Isolation Panel [NHANES]</originalText>
+							</code>
+							<text>
+								<reference value="#sdohassess1"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Moderately Integrated</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97030-5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="76508-1" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="In a typical week, how many times do you talk on the telephone with family, friends, or neighbors?">
+										<originalText>
+											<reference value="#sdohassess1pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess1pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_PQ">
+										<low inclusive="false" unit="/wk" value="3"></low>
+										<high inclusive="false" nullFlavor="PINF" unit="/wk"></high>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+											<addr nullFlavor="UNK"></addr>
+											<telecom nullFlavor="UNK"></telecom>
+											<representedOrganization>
+												<id extension="12900" root="1.2.840.114350.1.13.200.2.7.2.688879"></id>
+												<id nullFlavor="UNK" root="2.16.840.1.113883.4.2"></id>
+												<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+												<name>Corewell Health</name>
+												<addr use="WP">
+													<streetAddressLine>100 Michigan St. NE</streetAddressLine>
+													<city>Grand Rapids</city>
+													<state>MI</state>
+													<postalCode>49503</postalCode>
+													<country>US</country>
+												</addr>
+											</representedOrganization>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97032-5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="76509-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="How often do you get together with friends or relatives?">
+										<originalText>
+											<reference value="#sdohassess1pair2ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess1pair2"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unit="/wk" value="2" xsi:type="PQ"></value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97031-5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="76510-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="How often do you attend church or religious services?">
+										<originalText>
+											<reference value="#sdohassess1pair3ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess1pair3"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_PQ">
+										<low inclusive="false" unit="/a" value="4"></low>
+										<high inclusive="false" nullFlavor="PINF" unit="/a"></high>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97034-5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="76511-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Do you belong to any clubs or organizations such as church groups, unions, fraternal or athletic groups, or school groups?">
+										<originalText>
+											<reference value="#sdohassess1pair4ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess1pair4"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA32-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="No" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess1pair4ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97033-5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code nullFlavor="UNK">
+										<originalText>
+											<reference value="#sdohassess1pair5ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess1pair5"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="OTH" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess1pair5ans"></reference>
+										</originalText>
+									</value>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97035-5770833399-97001-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="63503-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Are you now married, widowed, divorced, separated, never married or living with a partner?">
+										<originalText>
+											<reference value="#sdohassess1pair6ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess1pair6"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA48-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Married" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess1pair6ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97002-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97002-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code code="72109-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]">
+								<originalText>AUDIT-C</originalText>
+							</code>
+							<text>
+								<reference value="#sdohassess2"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Not At Risk</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97045-5770833399-97002-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="68518-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="How often to you have a drink containing alcohol?">
+										<originalText>
+											<reference value="#sdohassess2pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess2pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA18926-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Monthly or less" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess2pair1ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97046-5770833399-97002-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="68519-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="How many standard drinks containing alcohol do you have on a typical day?">
+										<originalText>
+											<reference value="#sdohassess2pair2ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess2pair2"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA15694-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="1 or 2" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess2pair2ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97047-5770833399-97002-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="68520-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="How often do you have 6 or more drinks on 1 occasion?">
+										<originalText>
+											<reference value="#sdohassess2pair3ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess2pair3"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA6270-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Never" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess2pair3ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5778580702-97003-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20240211"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5778580702-97003-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code code="88028-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Tobacco use panel">
+								<originalText>Patient History</originalText>
+							</code>
+							<text>
+								<reference nullFlavor="UNK"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20240211"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Medium Risk</originalText>
+								<translation code="X-SDOH-RISK-2" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Medium Risk"></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97028-5778580702-97003-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="72166-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Tobacco smoking status">
+										<originalText>Smoking Tobacco Use</originalText>
+									</code>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA15920-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Former smoker" xsi:type="CD">
+										<originalText>Former</originalText>
+										<translation code="8517006" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Ex-smoker (finding)"></translation>
+									</value>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97078-5778580702-97003-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="88031-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Smokeless tobacco status">
+										<originalText>Smokeless Tobacco Use</originalText>
+									</code>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA4519-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Never used" xsi:type="CD">
+										<originalText>Never</originalText>
+										<translation code="228502006" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Never used moist powdered tobacco (finding)"></translation>
+									</value>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97148-5778580702-97003-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code nullFlavor="UNK">
+										<originalText>Passive Exposure</originalText>
+									</code>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="OTH" xsi:type="CD">
+										<originalText>Past</originalText>
+									</value>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97004-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97004-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code nullFlavor="OTH">
+								<originalText>Overall Financial Resource Strain (CARDIA)</originalText>
+								<translation code="X-SDOH-SDC-97004" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Overall Financial Resource Strain (CARDIA)"></translation>
+							</code>
+							<text>
+								<reference value="#sdohassess4"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Low Risk</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97040-5770833399-97004-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="76513-1" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="How hard is it for you to pay for the very basics like food, housing, medical care, and heating">
+										<originalText>
+											<reference value="#sdohassess4pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess4pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="OTH" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess4pair1ans"></reference>
+										</originalText>
+										<translation code="X-SDOH-FLO-1572879810-5" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Not hard at all"></translation>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5772625492-97005-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231204"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5772625492-97005-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code code="55757-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Patient Health Questionnaire 2 item (PHQ-2) [Reported]">
+								<originalText>PHQ-2</originalText>
+							</code>
+							<text>
+								<reference value="#sdohassess5"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231204"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Not at risk</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97051-5772625492-97005-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="73831-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Adolescent depression screening assessment">
+										<originalText>
+											<reference value="#sdohassess5pair1ques"></reference>
+										</originalText>
+										<translation code="428151000124107" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Standardized adult depression screening tool completed (situation)"></translation>
+										<translation code="10197000" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Psychiatric interview and evaluation (procedure)"></translation>
+										<translation code="73832-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Adult Depression Screening Assessment"></translation>
+									</code>
+									<text>
+										<reference value="#sdohassess5pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="OTH" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess5pair1ans"></reference>
+										</originalText>
+										<translation code="428171000124102" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Depression screening negative (finding)"></translation>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231204140226-0500"></time>
+										<assignedAuthor>
+											<id extension="948112453" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id extension="2014026" root="1.2.840.114350.1.13.200.2.7.2.836982"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97006-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97006-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code nullFlavor="OTH">
+								<originalText>Finnish Institute of Occupational Health - Occupational Stress Questionnaire</originalText>
+								<translation code="X-SDOH-SDC-97006" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Finnish Institute of Occupational Health - Occupational Stress Questionnaire"></translation>
+							</code>
+							<text>
+								<reference value="#sdohassess6"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>No Stress Concern Present</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97038-5770833399-97006-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="76542-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Do you feel stress - tense, restless, nervous, or anxious, or unable to sleep at night because your mind is troubled all the time - these days [OSQ]">
+										<originalText>
+											<reference value="#sdohassess6pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess6pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA6568-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Not at all" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess6pair1ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97007-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97007-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code code="89574-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Exercise Vital Sign (EVS)">
+								<originalText>Exercise Vital Sign</originalText>
+							</code>
+							<text>
+								<reference value="#sdohassess7"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Inactive</originalText>
+								<translation code="X-SDOH-RISK-3" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="High Risk"></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97036-5770833399-97007-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="89555-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="For an average week in the last 30 days, how many days per week did you engage in moderate to strenuous exercise (like walking fast, running, jogging, dancing, swimming, biking, or other activities that cause a light or heavy sweat)?">
+										<originalText>
+											<reference value="#sdohassess7pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess7pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unit="d/wk" value="0" xsi:type="PQ"></value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97037-5770833399-97007-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="68516-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="On those days that you engage in moderate to strenuous exercise, how many minutes, on average, do you exercise?">
+										<originalText>
+											<reference value="#sdohassess7pair2ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess7pair2"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unit="min/d" value="0" xsi:type="PQ"></value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97008-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97008-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code code="88121-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Hunger Vital Sign [HVS]">
+								<originalText>Hunger Vital Sign</originalText>
+							</code>
+							<text>
+								<reference value="#sdohassess8"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>No Food Insecurity</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97070-5770833399-97008-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="88122-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="(I/We) worried whether (my/our) food would run out before (I/we) got money to buy more.  ">
+										<originalText>
+											<reference value="#sdohassess8pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess8pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA28398-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Never true" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess8pair1ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97071-5770833399-97008-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="88123-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="The food that (I/we) bought just didn't last, and (I/we) didn't have money to get more.">
+										<originalText>
+											<reference value="#sdohassess8pair2ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess8pair2"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA28398-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Never true" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess8pair2ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97009-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97009-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code nullFlavor="OTH">
+								<originalText>PRAPARE - Transportation</originalText>
+								<translation code="X-SDOH-SDC-97009" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="PRAPARE - Transportation"></translation>
+							</code>
+							<text>
+								<reference value="#sdohassess9"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>No Transportation Needs</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97074-5770833399-97009-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code nullFlavor="OTH">
+										<originalText>
+											<reference value="#sdohassess9pair1ques"></reference>
+										</originalText>
+										<translation code="X-SDOH-FLO-1572879817" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="In the past 12 months, has lack of transportation kept you from medical appointments or from getting medications?"></translation>
+									</code>
+									<text>
+										<reference value="#sdohassess9pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="OTH" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess9pair1ans"></reference>
+										</originalText>
+										<translation code="X-SDOH-FLO-1572879817-2" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="No"></translation>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97075-5770833399-97009-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code nullFlavor="OTH">
+										<originalText>
+											<reference value="#sdohassess9pair2ques"></reference>
+										</originalText>
+										<translation code="X-SDOH-FLO-1572879818" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="In the past 12 months, has lack of transportation kept you from meetings, work, or from getting things needed for daily living?"></translation>
+									</code>
+									<text>
+										<reference value="#sdohassess9pair2"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="OTH" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess9pair2ans"></reference>
+										</originalText>
+										<translation code="X-SDOH-FLO-1572879818-2" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="No"></translation>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id extension="5770833399-97010-Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.21"></id>
+					<code code="8689-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="History of Social function"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20231112"></effectiveTime>
+					<entryRelationship typeCode="SPRT">
+						<observation classCode="OBS" moodCode="EVN">
+							<templateId root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.69"></templateId>
+							<id extension="5770833399-97010-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+							<code nullFlavor="OTH">
+								<originalText>Housing Stability Vital Sign</originalText>
+								<translation code="X-SDOH-SDC-97010" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Housing Stability Vital Sign"></translation>
+							</code>
+							<text>
+								<reference value="#sdohassess10"></reference>
+							</text>
+							<statusCode code="completed"></statusCode>
+							<effectiveTime value="20231112"></effectiveTime>
+							<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD"></value>
+							<interpretationCode nullFlavor="OTH">
+								<originalText>Low Risk</originalText>
+								<translation code="X-SDOH-RISK-1" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="Low Risk "></translation>
+							</interpretationCode>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97085-5770833399-97010-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="98976-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="In the past 12 months, was there a time when you were not able to pay the mortgage or rent on time?">
+										<originalText>
+											<reference value="#sdohassess10pair1ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess10pair1"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA32-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="No" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess10pair1ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97088-5770833399-97010-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code nullFlavor="OTH">
+										<originalText>
+											<reference value="#sdohassess10pair2ques"></reference>
+										</originalText>
+										<translation code="X-SDOH-FLO-1570008806" codeSystem="1.2.840.114350.1.72.1.8.1" codeSystemName="Epic.Sdoh" displayName="In the last 12 months, how many places have you lived?"></translation>
+									</code>
+									<text>
+										<reference value="#sdohassess10pair2"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unit="/a" value="1" xsi:type="PQ"></value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+							<entryRelationship typeCode="COMP">
+								<observation classCode="OBS" moodCode="EVN">
+									<templateId root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.86"></templateId>
+									<id extension="cer97090-5770833399-97010-Z58938" root="1.2.840.114350.1.13.200.2.7.1.83687972"></id>
+									<code code="98978-0" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="At any time in the past 12 months, were you homeless or living in shelter [including now]?">
+										<originalText>
+											<reference value="#sdohassess10pair3ques"></reference>
+										</originalText>
+									</code>
+									<text>
+										<reference value="#sdohassess10pair3"></reference>
+									</text>
+									<statusCode code="completed"></statusCode>
+									<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="LA32-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="No" xsi:type="CD">
+										<originalText>
+											<reference value="#sdohassess10pair3ans"></reference>
+										</originalText>
+									</value>
+									<author>
+										<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+										<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+										<time value="20231112111412-0500"></time>
+										<assignedAuthor>
+											<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+											<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+										</assignedAuthor>
+									</author>
+								</observation>
+							</entryRelationship>
+						</observation>
+					</entryRelationship>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId root="1.2.840.114350.1.72.5.1"></templateId>
+					<id extension="Z58938" root="1.2.840.114350.1.13.200.2.7.7.698084.19222"></id>
+					<code code="X-SDOH-19222" codeSystem="1.2.840.114350.1.72.1.8" codeSystemName="X-SDOH" displayName="Alcohol Comment"></code>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="20130402"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ST">2-3 times per year</value>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId extension="2016-06-01" root="2.16.840.1.113883.10.20.22.4.200"></templateId>
+					<id extension="Z58938" root="1.2.840.114350.1.13.200.2.7.1.1040.20"></id>
+					<code code="76689-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Sex Assigned At Birth"></code>
+					<text>
+						<reference value="#BirthSex144"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime value="19430606"></effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="F" codeSystem="2.16.840.1.113883.5.1" xsi:type="CD">
+						<originalText>
+							<reference value="#BirthSex144Value"></reference>
+						</originalText>
+					</value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20220607125840-0400"></time>
+						<assignedAuthor>
+							<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.34.3.45"></templateId>
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id nullFlavor="UNK"></id>
+					<code code="76691-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Gender identity"></code>
+					<text>
+						<reference value="#GenderIdentity142"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime>
+						<low value="20220607125840-0400"></low>
+					</effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" code="446141000124107" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT" displayName="Identifies as female gender (finding)" xsi:type="CD">
+						<originalText>
+							<reference value="#GenderIdentity142Value"></reference>
+						</originalText>
+					</value>
+					<author>
+						<templateId root="2.16.840.1.113883.10.20.22.4.119"></templateId>
+						<templateId extension="2019-10-01" root="2.16.840.1.113883.10.20.22.5.6"></templateId>
+						<time value="20220607125840-0400"></time>
+						<assignedAuthor>
+							<id extension="13323515" root="1.2.840.114350.1.13.200.2.7.1.1133"></id>
+							<id nullFlavor="UNK" root="2.16.840.1.113883.4.6"></id>
+						</assignedAuthor>
+					</author>
+				</observation>
+			</entry>
+			<entry>
+				<observation classCode="OBS" moodCode="EVN">
+					<templateId extension="2022-06-01" root="2.16.840.1.113883.10.20.22.4.501"></templateId>
+					<templateId root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<templateId extension="2015-08-01" root="2.16.840.1.113883.10.20.22.4.38"></templateId>
+					<id nullFlavor="UNK"></id>
+					<code code="76690-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Sexual orientation"></code>
+					<text>
+						<reference value="#SexualOrientation143"></reference>
+					</text>
+					<statusCode code="completed"></statusCode>
+					<effectiveTime>
+						<low nullFlavor="UNK"></low>
+					</effectiveTime>
+					<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nullFlavor="UNK" xsi:type="CD">
+						<originalText>
+							<reference value="#SexualOrientation143Value"></reference>
+						</originalText>
+					</value>
+				</observation>
+			</entry>
+		</section>
+	</component>
+</ClinicalDocument>

@@ -1,0 +1,30 @@
+Comparing Section : RESULTS.XML
+=====================================================
+root['ClinicalDocument'][0]['component'][0]['section'][0]['text']
+
+
+Comparing Section : HEADER.XML
+=====================================================
+root['ClinicalDocument'][0]['recordTarget'][0]['patientRole'][0]['addr'][0]['city'][1]
+
+
+Comparing Section : ACTIVE_PROBLEMS.XML
+=====================================================
+root['ClinicalDocument'][0]['component'][0]['section'][0]['entry'][4]['act'][0]['entryRelationship'][0]['observation'][0]['templateId'][1]['@root'][0]
+
+
+Comparing Section : INSURANCE.XML
+=====================================================
+root['ClinicalDocument'][0]['component'][0]['section'][0]['entry'][0]['act'][0]['entryRelationship'][0]['act'][0]['performer'][0]['assignedEntity'][0]['representedOrganization'][0]['addr']
+
+
+Comparing Section : INSURANCE.XML
+=====================================================
+root['ClinicalDocument'][0]['component'][0]['section'][0]['text'][0]['table'][0]['thead'][0]['tr']
+
+
+Comparing Section : MEDICATIONS.XML
+=====================================================
+root['ClinicalDocument'][0]['component'][0]['section'][0]['text'][0]['table'][0]['tbody'][0]['tr'][6]['td'][1]['#text'][0]
+
+

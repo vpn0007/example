@@ -1,0 +1,62 @@
+Comparing Section : RESULTS.XML
+=====================================================
+item added:
+
+item deleted:
+
+  - SetOrdered(["root['ClinicalDocument'][0]['component'][0]['section'][0]['text']"])
+
+item updated:
+
+others:
+
+Comparing Section : HEADER.XML
+=====================================================
+item added:
+
+  - {"root['ClinicalDocument'][0]['recordTarget'][0]['patientRole'][0]['addr'][0]['city'][1]": 'cheowmeow'}
+
+item deleted:
+
+item updated:
+
+others:
+
+Comparing Section : ACTIVE_PROBLEMS.XML
+=====================================================
+item added:
+
+item deleted:
+
+item updated:
+
+  - {"root['ClinicalDocument'][0]['component'][0]['section'][0]['entry'][4]['act'][0]['entryRelationship'][0]['observation'][0]['templateId'][1]['@root'][0]": {'new_value': '2.16.890.1.113883.10.20.22.4.4', 'old_value': '2.16.840.1.113883.10.20.22.4.4'}, "root['ClinicalDocument'][0]['component'][0]['section'][0]['entry'][4]['act'][0]['entryRelationship'][0]['observation'][0]['templateId'][2]['@root'][0]": {'new_value': '2.16.890.1.113883.10.20.22.4.4', 'old_value': '2.16.840.1.113883.10.20.22.4.4'}, "root['ClinicalDocument'][0]['component'][0]['section'][0]['entry'][4]['act'][0]['entryRelationship'][0]['observation'][0]['author'][0]['templateId'][0]['@root'][0]": {'new_value': '2.16.840.1.113883.10.20.22.4.120', 'old_value': '2.16.840.1.113883.10.20.22.4.119'}}
+
+others:
+
+Comparing Section : INSURANCE.XML
+=====================================================
+item added:
+
+item deleted:
+
+  - SetOrdered(["root['ClinicalDocument'][0]['component'][0]['section'][0]['entry'][0]['act'][0]['entryRelationship'][0]['act'][0]['performer'][0]['assignedEntity'][0]['representedOrganization'][0]['addr']"])
+
+item updated:
+
+others:
+
+  - {"root['ClinicalDocument'][0]['component'][0]['section'][0]['text'][0]['table'][0]['thead'][0]['tr']": {'old_type': <class 'list'>, 'new_type': <class 'NoneType'>, 'old_value': [{'th': ['Payer', 'Benefit Plan / Group', 'Subscriber ID', 'Effective Dates', 'Phone', 'Address', 'Type']}], 'new_value': None}}
+
+Comparing Section : MEDICATIONS.XML
+=====================================================
+item added:
+
+item deleted:
+
+item updated:
+
+  - {"root['ClinicalDocument'][0]['component'][0]['section'][0]['text'][0]['table'][0]['tbody'][0]['tr'][6]['td'][1]['#text'][0]": {'new_value': 'Apply 10 Application to teeth nightly.', 'old_value': 'Apply 1 Application to teeth nightly.'}, "root['ClinicalDocument'][0]['component'][0]['section'][0]['text'][0]['table'][0]['tbody'][0]['tr'][7]['td'][1]['#text'][0]": {'new_value': 'Take 5000 mg by mouth daily as needed for Constipation.', 'old_value': 'Take 100 mg by mouth daily as needed for Constipation.'}}
+
+others:
+
