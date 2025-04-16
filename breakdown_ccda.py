@@ -39,8 +39,5 @@ def extract_and_save_components(input_file):
         f.write(xmltodict.unparse({"ClinicalDocument": clinical_doc}, pretty=False))
 
 
-# file1 = "base_ccda.xml"
-# file2 = "compare_ccda.xml"
 
-# # Example usage
-# extract_and_save_components(file2)
+
