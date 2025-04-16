@@ -36,7 +36,7 @@ def extract_and_save_components(input_file):
     # Save remaining structure (header)
     header_file = f"{output_dir}/header.xml"
     with open(header_file, "w", encoding="utf-8") as f:
-        f.write(xmltodict.unparse({"ClinicalDocument": clinical_doc}, pretty=True))
+        f.write(xmltodict.unparse({"ClinicalDocument": clinical_doc}, pretty=False))
 
 
 # file1 = "base_ccda.xml"
