@@ -22,7 +22,7 @@ def wrap_single_objects_as_lists(obj):
 
 def normalize_xml(file_path):
     """Loads XML, parses it into a dictionary, and ensures lists where needed."""
-    with open(file_path, "r", encoding="utf-8") as f:
+    with open(file_path, "rw", encoding="utf-8") as f:
         xml_dict = xmltodict.parse(f.read(), dict_constructor=dict)
     return wrap_single_objects_as_lists(xml_dict)
 
