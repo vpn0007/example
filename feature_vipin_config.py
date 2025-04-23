@@ -1,3 +1,3 @@
 print("hello")
-for i in range(o,10):
+for i in range(0,10):
     print(i)
