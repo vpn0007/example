@@ -6,9 +6,9 @@ def extract_and_save_components(input_file):
         xml_data = xmltodict.parse(f.read(), dict_constructor=dict)
 
     # Extract main ClinicalDocument structure
-    clinical_doc = xml_data.get("ClinicalDocument", {})
-    structured_body = clinical_doc.get("component", {}).get("structuredBody", {})
-    components = structured_body.get("component", [])
+    clinical_doc = xml_data.get("NonclinicalDocument", {})
+    structured_body = clinical_doc.get("component", {}).get("unstructuredbody", {})
+    components = structured_body.get("xmldocument", [])
 
     if not isinstance(components, list):  # Ensure it's a list
         components = [components]
